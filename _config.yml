@@ -2,13 +2,13 @@
 
 disqus:              #"your-disqus"
 
-paginate:            5
+paginate:            10
 
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-gems:                [jekyll-paginate]
+plugins:                [jekyll-paginate]
 
 sass:
   sass_dir: assets/css

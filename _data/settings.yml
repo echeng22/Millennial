@@ -1,23 +1,22 @@
-title:  "Millennial"
-tagline: "a Jekyll theme"
+title:  "MSR Portfolio"
+tagline: "Robot Projects"
 description:
 author:
-  name: "Paul Le"
-  twitter: paululele
+  name: "Elton Cheng"
 
 menu:
-- {name: 'Interesting Facts', file: 'facts.html'}
-- {name: 'Learning Resources', file: 'resources.html'}
-- {name: 'Sample Posts', file: 'sample-posts.html'}
-- {name: 'Documentation', file: 'documentation.html'}
+- {name: 'Projects', file: 'test.html'}
+- {name: 'Robotics', file: 'facts.html'}
+- {name: 'Machine Learning', file: 'resources.html'}
+- {name: 'Controls & Simulations', file: 'sample-posts.html'}
+- {name: 'Other', file: 'documentation.html'}
 - {name: 'About', file: 'about.html'}
 - {name: 'Contact', file: 'contact.html'}
+- {name: 'Resume', file: 'Resume.pdf'}
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/elton-cheng/'}
+- {icon: 'envelope', link: 'mailto:elton.c22@gmail.com'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
+
