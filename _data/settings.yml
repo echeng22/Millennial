@@ -5,13 +5,11 @@ author:
   name: "Elton Cheng"
 
 menu:
-- {name: 'Projects', file: 'test.html'}
+- {name: 'About Myself', file: 'about.html'}
+- {name: 'Projects', file: 'All.html'}
 - {name: 'Robotics', file: 'facts.html'}
-- {name: 'Machine Learning', file: 'resources.html'}
 - {name: 'Controls & Simulations', file: 'sample-posts.html'}
-- {name: 'Other', file: 'documentation.html'}
-- {name: 'About', file: 'about.html'}
-- {name: 'Contact', file: 'contact.html'}
+- {name: 'Other', file: 'Other.html'}
 - {name: 'Resume', file: 'Resume.pdf'}
 
 social:

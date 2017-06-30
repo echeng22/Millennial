@@ -2,7 +2,7 @@
 layout: post
 title: "Rehabilitation Tool for Ankle Sprains"
 author: "Elton Cheng"
-categories: documentation
+categories: Other
 tags: [Rehabilitation, Design, Laser Cut, UCSD]
 image:
     feature: JANE.jpg
