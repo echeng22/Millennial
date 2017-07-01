@@ -2,11 +2,10 @@
 layout: post
 title: "Simulation of Whip Colliding with Falling Block"
 author: "Elton Cheng"
-categories: Other
-tags: [Rehabilitation, Design, Laser Cut, UCSD]
+categories: ControlSim
+tags: [Simulation, ME313, Northwestern, Mathematica]
 image: 
     feature: whipimage.jpg
-
 ---
 
 ## Overview

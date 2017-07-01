@@ -7,8 +7,8 @@ author:
 menu:
 - {name: 'About Myself', file: 'about.html'}
 - {name: 'Projects', file: 'All.html'}
-- {name: 'Robotics', file: 'facts.html'}
-- {name: 'Controls & Simulations', file: 'sample-posts.html'}
+- {name: 'Robotics', file: 'Robotics.html'}
+- {name: 'Controls & Simulations', file: 'ControlSim.html'}
 - {name: 'Other', file: 'Other.html'}
 - {name: 'Resume', file: 'Resume.pdf'}
 

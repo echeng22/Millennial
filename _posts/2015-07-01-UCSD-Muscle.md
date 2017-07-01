@@ -3,7 +3,7 @@ layout: post
 title: Sarcomere Length Analysis Using Laser Diffraction
 author: "Elton Cheng"
 categories: Other
-tags: [Rehabilitation, Design, Laser Cut, UCSD]
+tags: [Muscle, Matlab, UCSD]
 image:
     feature: Voltage_vs_sarcomere_length.png
     teaser: F4.large.jpg
