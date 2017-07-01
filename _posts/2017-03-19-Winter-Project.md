@@ -34,18 +34,16 @@ Below are some videos of ROS python scripts publishing out joint states that V-R
 
 6/11/17: Control of the simulation works. I am able to have the end effector move in a desired trajectory (video shown below), as well as take in input from a PS3 controller. With this set up, I now have a structure of code that I can use to port over to the physical hardware when the time comes.
 
-{: .center}
-[![Delta Robot Control](http://img.youtube.com/vi/GhsyXsqIfv0/0.jpg)](https://www.youtube.com/watch?v=GhsyXsqIfv0 "Delta Robot Control"){:target="_blank"}
-
 <div align="center">
-
-    <video align="center" src="/public/assets/deltarobot1.mp4" poster="http://img.youtube.com/vi/2GcU2EElAsM/0.jpg" width="600" height="400" controls preload></video>
-
-    <video align="center" src="/public/assets/deltarobot2.mp4" poster="http://img.youtube.com/vi/YjqXE8ZjUQU/0.jpg" width="600" height="400" controls preload></video>
-
-    <video align="center" src="/public/assets/delta_create.mp4" poster="http://img.youtube.com/vi/tMdwFdGa88U/0.jpg" width="600" height="400" controls preload></video>
-
-
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/GhsyXsqIfv0" frameborder="0" allowfullscreen></iframe>
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/tMdwFdGa88U" frameborder="0" allowfullscreen></iframe>
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2GcU2EElAsM" frameborder="0" allowfullscreen></iframe>
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/YjqXE8ZjUQU" frameborder="0" allowfullscreen></iframe>
+    
+    
 </div>
 
 [here]:https://github.com/echeng22/winterProjectROS
