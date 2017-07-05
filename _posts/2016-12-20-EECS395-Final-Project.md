@@ -4,15 +4,13 @@ title: Collision Avoidance Simulation Tool
 author: "Elton Cheng"
 categories: ControlSim
 tags: [Simulation, EECS395, Comp Geo, Northwestern]
-image: 
+image:
     feature: compgeo.jpg
 ---
 
 ## Overview
 
-##### Group Project was completed for EECS 395: Compuational Geometry.
-
-##### Group Members: Elton Cheng, Mario Sebasco, Chainatee Tanakulrungson
+##### Group Members: Elton Cheng, [Mario Sebasco], [Chainatee Tanakulrungson]
 
 The goal of this project was to create a tool that would simulate collision avoidance in a system of moving robots. The algorithms and logic behind this project is based off the research paper [Generalized Reciprocal Collision Avoidance] by Daman Bareiss and Jur van den Berg.
 
@@ -26,15 +24,17 @@ In the future, we would like to implement further fine tuning of the algorithm, 
 
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/FTm0ED6ZIZA" frameborder="0" allowfullscreen></iframe> 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/FTm0ED6ZIZA" frameborder="0" allowfullscreen></iframe>
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/il0v5pRQLqM" frameborder="0" allowfullscreen></iframe>
-    
+
     <iframe width="560" height="315" src="https://www.youtube.com/embed/11ZxD_-BOU0" frameborder="0" allowfullscreen></iframe>
-    
+
     <iframe width="560" height="315" src="https://www.youtube.com/embed/f88BVyyIess" frameborder="0" allowfullscreen></iframe>
 </div>
 
 [Generalized Reciprocal Collision Avoidance]:<http://arl.cs.utah.edu/pubs/IJRR2015.pdf>
+[Chainatee Tanakulrungson]:https://ctanakul.github.io/chainatee-portfolio/
+[Mario Sebasco]:https://mariosebasco.github.io/
 
 
