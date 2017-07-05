@@ -79,11 +79,11 @@ Our future plans with the project over the summer and upcoming Fall quarter is t
 [Robotnix Summit XL]:https://www.roscomponents.com/en/mobile-robots/17-summit-xl.html#/gps-no/summit_xl_docking_station-no/encoders-no/cpu-intel_baytrail_j1900_ssd_120_gb_ram_4_gb/omni_wheels-rubber_wheels/summit_xl_rgbd_zone-no/summit_xl_zone_2-no/summit_xl_zone_3-no
 [Superdroid Robots IG52 DB]:https://www.superdroidrobots.com/shop/item.aspx/programmable-mecanum-wheel-vectoring-robot-ig52-db/1788/
 [Hangfa Robots]:http://www.hangfa.com/EN/robot/Navigator.html
-[Mechanical System]:/Portfolio/assets/img/mechanical.png "Putting the robot together"
-[Wheel Setup]:/Portfolio/assets/img/wheelsetup.png "Orientation of the wheels"
-[Motor Wiring]:/Portfolio/assets/img/motorwiring.JPG "Wiring of the motors"
-[Top Wiring]:/Portfolio/assets/img/topwiring.JPG "Wiring of the switches and converters"
-[Battery Wiring]:/Portfolio/assets/img/batterywiring.JPG "Wiring of the battery to the robot"
-[Controller]:/Portfolio/assets/img/controller.png "R/C Controller"
+[Mechanical System]:/assets/img/mechanical.png "Putting the robot together"
+[Wheel Setup]:/assets/img/wheelsetup.png "Orientation of the wheels"
+[Motor Wiring]:/assets/img/motorwiring.JPG "Wiring of the motors"
+[Top Wiring]:/assets/img/topwiring.JPG "Wiring of the switches and converters"
+[Battery Wiring]:/assets/img/batterywiring.JPG "Wiring of the battery to the robot"
+[Controller]:/assets/img/controller.png "R/C Controller"
 
 

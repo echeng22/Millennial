@@ -16,5 +16,5 @@ If you have any questions about my work or about my time in the MSR program at N
 
 This portfolio is still under development, so please pardon me if there are any issues viewing my portfolio.
 
-[Myself]:/Portfolio/assets/img/self.jpg
+[Myself]:/assets/img/self.jpg
 
