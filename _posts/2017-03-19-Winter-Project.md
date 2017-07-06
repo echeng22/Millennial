@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Simulation Tool for Decentralized Multi-Robot Cooperative Manipulation"
+title: "Simulation Tool for Delta Robot Manipulation"
 author: "Elton Cheng"
 categories: ControlSim
 tags: [Simulation, V-REP, Boeing, Northwestern]
-image: 
+image:
     feature: winterSim.jpg
 ---
 
@@ -36,14 +36,14 @@ Below are some videos of ROS python scripts publishing out joint states that V-R
 
 <div align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/GhsyXsqIfv0" frameborder="0" allowfullscreen></iframe>
-    
+
     <iframe width="560" height="315" src="https://www.youtube.com/embed/tMdwFdGa88U" frameborder="0" allowfullscreen></iframe>
-    
+
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2GcU2EElAsM" frameborder="0" allowfullscreen></iframe>
-    
+
     <iframe width="560" height="315" src="https://www.youtube.com/embed/YjqXE8ZjUQU" frameborder="0" allowfullscreen></iframe>
-    
-    
+
+
 </div>
 
 [here]:https://github.com/echeng22/winterProjectROS

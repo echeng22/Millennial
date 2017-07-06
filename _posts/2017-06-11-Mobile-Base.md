@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Mobile Base for Decentralized Multi-Robot Cooperative Manipulation"
+title: "Mobile Base for Multi-Robot Manipulation"
 author: "Elton Cheng"
 categories: Robotics
 tags: [Robotics, Boeing, Robotics, Northwestern]
-image: 
+image:
     feature: batterywiring.JPG
 ---
 
