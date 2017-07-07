@@ -36,7 +36,7 @@ Goal of the project is to design, build, and program a robot to follow the map s
 
 [Android]:https://github.com/echeng22/echeng22_ME433_2017/tree/master/HW20/HW20_final
 [PIC32]:https://github.com/echeng22/echeng22_ME433_2017/tree/master/HW18/HW19
-[map]:/assets/img/techCup2017.png
+[map]:/Portfolio/assets/img/techCup2017.png
 [PIC Table]:https://cad.onshape.com/documents/449437c151f2877ca5517bb7/w/9e663db5cd23532a99137b21/e/a06ce878222ca175d56d6c81
 [Contact Point]:https://cad.onshape.com/documents/5946204afb81c65d631c5ecf/w/936e7f5a617a5720cf854489/e/5bf952fbcd83c6ad8746c9a3
 [Servo Table]:https://cad.onshape.com/documents/9776e101aeea3acf7196cc98/w/dbc22fecf95aed47408a7bc3/e/0a7e28b716c426030f2471a1
