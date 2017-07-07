@@ -13,8 +13,10 @@ menu:
 - {name: 'Resume', file: 'Resume.pdf'}
 
 social:
+- {icon: 'github', link: 'https://github.com/echeng22'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/elton-cheng/'}
 - {icon: 'envelope', link: 'mailto:elton.c22@gmail.com'}
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 
