@@ -28,11 +28,11 @@ V-REP was used as the current platform for simulating the inverted delta robot, 
 Below are some videos of ROS python scripts publishing out joint states that V-REP subscribes to to control the robot. Source code for these scripts can be found [here].
 
 ### Status of the Project
-3/27/17: Finished creating a V-REP scene, delta_robot_create_model.ttt, that would allow for customization of the inverted delta robot. Makes it much easier for customization and for future simulations. Will now be working on improving trajectory control, using this model.
-
 3/18/17: I am currently looking into adding in inverse/forward kinematics code of the delta robot, which will allow trajectory control of the robot. Also, due to how the robot is currently modelled in V-REP, inverse kinematics calculations are not easy to obtain due to all the offsets the model contains. Because of this, I am working on improving this model that will allow easier calculations, as well as making it more flexible in design parameters (length of links, radius of base, etc).
 
-6/11/17: Control of the simulation works. I am able to have the end effector move in a desired trajectory (video shown below), as well as take in input from a PS3 controller. With this set up, I now have a structure of code that I can use to port over to the physical hardware when the time comes.
+3/27/17: Finished creating a V-REP scene, delta_robot_create_model.ttt, that would allow for customization of the inverted delta robot. Makes it much easier for customization and for future simulations. Will now be working on improving trajectory control, using this model.
+
+5/25/17: Control of the simulation works. I am able to have the end effector move in a desired trajectory (video shown below), as well as take in input from a PS3 controller. With this set up, I now have a structure of code that I can use to port over to the physical hardware when the time comes.
 
 <div align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/GhsyXsqIfv0" frameborder="0" allowfullscreen></iframe>
