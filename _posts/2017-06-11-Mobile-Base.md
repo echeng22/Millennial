@@ -77,7 +77,7 @@ UPDATES
 The PS3 controller can now be used to control the robot. On the Linux computer side, a ROS subscriber is used to listen the PS3 controllers and publishes the corresponding twist values. The arduino microcontroller code is set up to communicate with the Linux computer using ROS (rosserial_arduino and rosserial_python) and subscribes to the twist messages being published out. Encoder counts of the motors are polled by the arduino at a frequency of 75 Hz, which is then used to integrate and update the position of the odometry. This odometry is then published out back to the Linux computer to be used for analysis. Below is a video of the robot moving around in this configuration.
 
 <div align="center">
-    <iframe width="560" height="315" src="https://youtu.be/KyK1uE_hnJ4" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/KyK1uE_hnJ4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 The next goal for this project is to experiment and analyze how accurate the odometry being published out from the robot is, and whether we need to improve it or not. This will be done by setting up several test scripts of different trajectories, such as a circle, square or line trajectory, that publishes out the necessary twists to complete this trajectory. By measuring the offset of the robot as goes through the trajectory with the published odometry, we can determine how accurate our odometry is.
