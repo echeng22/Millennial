@@ -51,6 +51,7 @@ The 24 V power feeds into the motor controller, which connects to two motors and
 ![alt text][Motor Wiring]
 ![alt text][Top Wiring]
 ![alt text][Battery Wiring]
+![alt text][Schematic]
 
 #### Tuning the System and Setting up for RC Control
 The Kangaroo has a feature that auto-tunes the control of the wheels. The tuning procedure is to put the Kangaroo in "Teach Tuning" mode and begin rotating both motors at the same time. After rotating the moters in the direction the motors will move in, pushing a button on the Kangaroo will begin the auto-tuning process.
@@ -92,6 +93,7 @@ The next goal for this project is to experiment and analyze how accurate the odo
 [Mechanical System]:/assets/img/mechanical.png "Putting the robot together"
 [Wheel Setup]:/assets/img/wheelsetup.png "Orientation of the wheels"
 [Motor Wiring]:/assets/img/motorwiring.JPG "Wiring of the motors"
+[Schematic]:/assets/img/ElectricSchematic.png "Diagram of electric connections"
 [Top Wiring]:/assets/img/topwiring.JPG "Wiring of the switches and converters"
 [Battery Wiring]:/assets/img/batterywiring.JPG "Wiring of the battery to the robot"
 [Controller]:/assets/img/controller.png "R/C Controller"
