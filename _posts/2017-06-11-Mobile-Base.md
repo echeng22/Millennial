@@ -5,7 +5,7 @@ author: "Elton Cheng"
 categories: Robotics
 tags: [Robotics, Boeing, Robotics, Northwestern]
 image:
-    feature: batterywiring.JPG
+    feature: CompleteAssembly.jpg
 ---
 
 ## MSR Final Project: Mecanum Robot
@@ -13,6 +13,24 @@ image:
 Group Members:
 [Chainatee Tanakulrungson], [Yuchen Rao]
 
+## Fall Quarter 2017: Final Assembly
+### Overview
+The goal for Fall Quarter 2017 was to improve and make modifications to the design of the mobile base that would make it easier to maintain and build multiple copies. Documentation of the build process, components, and software can be found at the [mobile base] repository.
+
+![alt text][TopCoverComplete]
+![alt text][BatteryOnBase]
+
+The secondary goal for this quarter was to also build up a localization library that would be setup for multiple combinations of sensors, such as Hokuyo URG-04Lx-UG01 laser scanner, Razor 9 DOF IMU SEN-14001, and motor encoder data of the wheels. Sensor data from these sources where then processed through their respective ROS software packages, and filtered through the ekf_localization_node of the robot_localization node to give a final filtered estimate of the position of the robot with respect to its starting position.
+
+Below are two videos of the motion of the mobile base, and the odometry visualization of the mobile base in rviz. Complete documentation of this project can be found at the [mobile base] repository.
+<div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/l_yaP9cTkvs" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+<div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/JGPmnrfSxrg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+
+## Spring Quarter 2017
 ### Overview
 In collaboration with the NxR lab, ME398 Senior Design team, and MS in Mechanical Engineering students, the goal for this portion of the project was to source and control a mobile base for a system that allows 3 or more mobile manipulators to cooperatively position a large-scale manufacturing component.
 
@@ -97,5 +115,7 @@ The next goal for this project is to experiment and analyze how accurate the odo
 [Top Wiring]:/assets/img/topwiring.JPG "Wiring of the switches and converters"
 [Battery Wiring]:/assets/img/batterywiring.JPG "Wiring of the battery to the robot"
 [Controller]:/assets/img/controller.png "R/C Controller"
-
+[mobile base]: https://github.com/NU-MSR/boeing_mobile_base
+[BatteryOnBase]:/assets/img/BatteryOnBase.jpg "Battery Attached to Chassis"
+[TopCoverComplete]:/assets/img/TopCoverComplete.jpg "Sensor and Electronic Table"
 
